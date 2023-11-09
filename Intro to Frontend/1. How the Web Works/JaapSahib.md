@@ -1093,4 +1093,4 @@ Salutation to Thee O Self-Existent, Most Beautiful and United with all Lord!
 Salutation to Thee O Destroyer of hard times and Embodiment of Mercy Lord!
 Salutation to thee O Ever present with all, Indestructible and Glorious Lord ! 199.
 
-Spread the Knowledge 
+Spread the Knowledge
