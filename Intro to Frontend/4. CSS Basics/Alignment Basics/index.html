@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      p {
+        text-align: left;
+      }
+      .parent {
+        border: 4px solid red;
+      }
+      .child {
+        display: block;
+        width: 50%;
+        padding: 20px;
+        border: 4px solid green;
+        margin: auto;
+        float: right;
+      }
+      img{
+        height: 80px;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This is paragraph.</p>
+    <!-- <div class="parent">
+      <div class="child"></div>
+    </div> -->
+    <div class="parent">
+        <img class = "child" src="https://images.pexels.com/photos/18655633/pexels-photo-18655633/free-photo-of-wooden-path-in-a-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate sunt aliquid magnam nulla esse? Ex placeat quae in fuga qui accusamus, sunt maiores impedit atque expedita magni temporibus ut aliquam.
+    </div>
+  </body>
+</html>
+
+<!-- Key Concepts
+margin auto applies to block level elements, img is inline
+by default.
+if there is img and some text use float property to position the element inside the text
+-->
